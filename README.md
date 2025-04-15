@@ -23,7 +23,7 @@ The project involves building forecasting models to predict future values of mul
 ### 📑 Files
 
 - **Multivariate Time Series Forecasting.ipynb**: The Jupyter notebook containing the analysis, model building, and forecasting.
-- **data/**: Directory containing the dataset (if any).
+- **stocks.csv**: Containing the dataset.
 
 ---
 
